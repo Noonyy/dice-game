@@ -71,7 +71,7 @@ document.querySelector(".btn-roll").addEventListener('click', function () {
             // }
         }
     } else {
-        alert('Тоглоом дууссан байна. New Game товчийг дарж шинээр эхлэнэ үү')
+        alert('Тоглоом дууссан байна. Start Game товчийг дарж шинээр эхлэнэ үү')
     }
 });
 
@@ -102,7 +102,7 @@ document.querySelector(".btn-hold").addEventListener('click', function () {
             // DRY - Don't repeat yourself
         }
     } else {
-        alert('Тоглоом дууссан байна. New Game товчийг дарж шинээр эхлэнэ үү')
+        alert('Тоглоом дууссан байна. Start Game товчийг дарж шинээр эхлэнэ үү')
     }
 });
 
